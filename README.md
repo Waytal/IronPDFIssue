@@ -13,6 +13,12 @@ It might be related to the new disposable PDFDocument class or to something I mi
 
 When I call the api endpoint to render my file it works the first time, but fails the second and all other times.
 
+#### Update
+
+
+I encountered the same problem with the new version of IronPDF 2022.8.7894.
+
+![](./Medias/proof.gif)
 
 ## Implementation
 

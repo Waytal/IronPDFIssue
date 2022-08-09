@@ -1,140 +1,70 @@
-15:21:49 (0x112f10600): Entered child process
-15:21:49 (0x112f10600): Created new lifespan events
-15:21:49 (0x112f10600): Created new browser process handler
-15:21:49 (0x112f10600): Created new load handler
-15:21:49 (0x112f10600): Created new render handler
-15:21:49 (0x112f10600): Created new render process handler
-15:21:49 (0x112f10600): Created new print handler
-15:21:49 (0x112f10600): Created new dev tools handler
-15:21:49 (0x112f10600): Created new dev tools registration factory
-15:21:49 (0x112f10600): Created new lifespan handler
-15:21:49 (0x112f10600): Created proxy
-15:21:49 (0x112f10600): Process os_name: 'undefined'
-15:21:49 (0x112f10600): gpu_mode: '0'
-15:21:49 (0x112f10600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --gpu-preferences=UAAAAAAAAAAgAiMKAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAACIAQAAMAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAAEACAAAAAAAASAIAAAAAAABQAgAAAAAAAFgCAAAAAAAAYAIAAAAAAABoAgAAAAAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAJAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAAOAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAIAAAAAAAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAABwAAABAAAAAAAAAACgAAAAgAAAAQAAAAAAAAAAoAAAAJAAAAEAAAAAAAAAAKAAAACwAAABAAAAAAAAAACgAAAAwAAAAQAAAAAAAAAAoAAAAOAAAAEAAAAAAAAAAKAAAADwAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=disabled --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,13655067058481414830,1011089103603190278,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x115613600): Entered child process
-15:21:49 (0x115613600): Created new lifespan events
-15:21:49 (0x115613600): Created new browser process handler
-15:21:49 (0x115613600): Created new load handler
-15:21:49 (0x115613600): Created new render handler
-15:21:49 (0x115613600): Created new render process handler
-15:21:49 (0x115613600): Created new print handler
-15:21:49 (0x115613600): Created new dev tools handler
-15:21:49 (0x115613600): Created new dev tools registration factory
-15:21:49 (0x115613600): Created new lifespan handler
-15:21:49 (0x115613600): Created proxy
-15:21:49 (0x107451600): Entered child process
-15:21:49 (0x107451600): Created new lifespan events
-15:21:49 (0x107451600): Created new browser process handler
-15:21:49 (0x107451600): Created new load handler
-15:21:49 (0x107451600): Created new render handler
-15:21:49 (0x107451600): Created new render process handler
-15:21:49 (0x115613600): Process os_name: 'undefined'
-15:21:49 (0x107451600): Created new print handler
-15:21:49 (0x115613600): gpu_mode: '0'
-15:21:49 (0x107451600): Created new dev tools handler
-15:21:49 (0x107451600): Created new dev tools registration factory
-15:21:49 (0x115613600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,13655067058481414830,1011089103603190278,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x107451600): Created new lifespan handler
-15:21:49 (0x10d6f9600): Entered child process
-15:21:49 (0x107451600): Created proxy
-15:21:49 (0x10d6f9600): Created new lifespan events
-15:21:49 (0x10d6f9600): Created new browser process handler
-15:21:49 (0x10d6f9600): Created new load handler
-15:21:49 (0x10d6f9600): Created new render handler
-15:21:49 (0x10d6f9600): Created new render process handler
-15:21:49 (0x10d6f9600): Created new print handler
-15:21:49 (0x10d6f9600): Created new dev tools handler
-15:21:49 (0x10d6f9600): Created new dev tools registration factory
-15:21:49 (0x10d6f9600): Created new lifespan handler
-15:21:49 (0x10d6f9600): Created proxy
-15:21:49 (0x107451600): Process os_name: 'undefined'
-15:21:49 (0x107451600): gpu_mode: '0'
-15:21:49 (0x107451600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=26084706979 --shared-files --field-trial-handle=1718379636,r,13655067058481414830,1011089103603190278,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x10d6f9600): Process os_name: 'undefined'
-15:21:49 (0x10d6f9600): gpu_mode: '0'
-15:21:49 (0x10d6f9600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=26084709669 --shared-files --field-trial-handle=1718379636,r,13655067058481414830,1011089103603190278,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x10d6f9600): WebKit initialized
-15:21:49 (0x107451600): WebKit initialized
-15:21:49 (0x10d6f9600): Browser created using id 1
-15:21:49 (0x10d6f9600): Sending process message from render process to browser process for browser 1
-15:21:49 (0x10d6f9600): Successfully sent message to browser process for browser 1
-15:21:49 (0x10d6f9600): Context created for browser 1
-15:21:49 (0x10d6f9600): Message received from process 0
-15:21:49 (0x10d6f9600): Visiting DOM of 'http://ironsoftwarescheme.com/'
-15:21:49 (0x10d6f9600): DOM reported document title of 
-15:21:49 (0x10d6f9600): Finished HTML visit, invoking callback
-15:21:49 (0x10d6f9600): DOM-visit finished for browser 1
-15:21:49 (0x10d6f9600): DOM-visit generated base-64 string 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA='
-15:21:49 (0x10d6f9600): Sending process message from render process to browser process for browser 1
-15:21:49 (0x10d6f9600): Successfully sent message to browser process for browser 1
-15:24:23 (0x10ca13600): Entered child process
-15:24:23 (0x10ca13600): Created new lifespan events
-15:24:23 (0x10ca13600): Created new browser process handler
-15:24:23 (0x10ca13600): Created new load handler
-15:24:23 (0x10ca13600): Created new render handler
-15:24:23 (0x10ca13600): Created new render process handler
-15:24:23 (0x10ca13600): Created new print handler
-15:24:23 (0x10ca13600): Created new dev tools handler
-15:24:23 (0x10ca13600): Created new dev tools registration factory
-15:24:23 (0x10ca13600): Created new lifespan handler
-15:24:23 (0x10ca13600): Created proxy
-15:24:23 (0x10ca13600): Process os_name: 'undefined'
-15:24:23 (0x10ca13600): gpu_mode: '0'
-15:24:23 (0x10ca13600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --gpu-preferences=UAAAAAAAAAAgAiMKAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAACIAQAAMAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAAEACAAAAAAAASAIAAAAAAABQAgAAAAAAAFgCAAAAAAAAYAIAAAAAAABoAgAAAAAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAJAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAAOAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAIAAAAAAAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAABwAAABAAAAAAAAAACgAAAAgAAAAQAAAAAAAAAAoAAAAJAAAAEAAAAAAAAAAKAAAACwAAABAAAAAAAAAACgAAAAwAAAAQAAAAAAAAAAoAAAAOAAAAEAAAAAAAAAAKAAAADwAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=disabled --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,15958028711432365477,15466839933572154580,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x10a5da600): Entered child process
-15:24:23 (0x10a5da600): Created new lifespan events
-15:24:23 (0x10a5da600): Created new browser process handler
-15:24:23 (0x10a5da600): Created new load handler
-15:24:23 (0x10a5da600): Created new render handler
-15:24:23 (0x10a5da600): Created new render process handler
-15:24:23 (0x10a5da600): Created new print handler
-15:24:23 (0x10a5da600): Created new dev tools handler
-15:24:23 (0x10a5da600): Created new dev tools registration factory
-15:24:23 (0x10a5da600): Created new lifespan handler
-15:24:23 (0x10a5da600): Created proxy
-15:24:23 (0x10a5da600): Process os_name: 'undefined'
-15:24:23 (0x10a5da600): gpu_mode: '0'
-15:24:23 (0x10a5da600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,15958028711432365477,15466839933572154580,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x10b725600): Entered child process
-15:24:23 (0x113f65600): Entered child process
-15:24:23 (0x10b725600): Created new lifespan events
-15:24:23 (0x113f65600): Created new lifespan events
-15:24:23 (0x10b725600): Created new browser process handler
-15:24:23 (0x113f65600): Created new browser process handler
-15:24:23 (0x10b725600): Created new load handler
-15:24:23 (0x113f65600): Created new load handler
-15:24:23 (0x113f65600): Created new render handler
-15:24:23 (0x10b725600): Created new render handler
-15:24:23 (0x113f65600): Created new render process handler
-15:24:23 (0x10b725600): Created new render process handler
-15:24:23 (0x113f65600): Created new print handler
-15:24:23 (0x10b725600): Created new print handler
-15:24:23 (0x113f65600): Created new dev tools handler
-15:24:23 (0x10b725600): Created new dev tools handler
-15:24:23 (0x10b725600): Created new dev tools registration factory
-15:24:23 (0x113f65600): Created new dev tools registration factory
-15:24:23 (0x10b725600): Created new lifespan handler
-15:24:23 (0x113f65600): Created new lifespan handler
-15:24:23 (0x113f65600): Created proxy
-15:24:23 (0x10b725600): Created proxy
-15:24:23 (0x113f65600): Process os_name: 'undefined'
-15:24:23 (0x113f65600): gpu_mode: '0'
-15:24:23 (0x10b725600): Process os_name: 'undefined'
-15:24:23 (0x10b725600): gpu_mode: '0'
-15:24:23 (0x113f65600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=26238362738 --shared-files --field-trial-handle=1718379636,r,15958028711432365477,15466839933572154580,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x10b725600): Launching Main process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=26238364918 --shared-files --field-trial-handle=1718379636,r,15958028711432365477,15466839933572154580,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x10b725600): WebKit initialized
-15:24:23 (0x113f65600): WebKit initialized
-15:24:23 (0x10b725600): Browser created using id 1
-15:24:23 (0x10b725600): Sending process message from render process to browser process for browser 1
-15:24:23 (0x10b725600): Successfully sent message to browser process for browser 1
-15:24:23 (0x10b725600): Context created for browser 1
-15:24:23 (0x10b725600): Message received from process 0
-15:24:23 (0x10b725600): Visiting DOM of 'http://ironsoftwarescheme.com/'
-15:24:23 (0x10b725600): DOM reported document title of 
-15:24:23 (0x10b725600): Finished HTML visit, invoking callback
-15:24:23 (0x10b725600): DOM-visit finished for browser 1
-15:24:23 (0x10b725600): DOM-visit generated base-64 string 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA='
-15:24:23 (0x10b725600): Sending process message from render process to browser process for browser 1
-15:24:23 (0x10b725600): Successfully sent message to browser process for browser 1
+09:08:33 (0x1124b6600): Entered child process
+09:08:33 (0x1124b6600): Created new lifespan events
+09:08:33 (0x1124b6600): Created new browser process handler
+09:08:33 (0x1124b6600): Created new load handler
+09:08:33 (0x1124b6600): Created new render handler
+09:08:33 (0x1124b6600): Created new render process handler
+09:08:33 (0x1124b6600): Created new print handler
+09:08:33 (0x1124b6600): Created new dev tools handler
+09:08:33 (0x1124b6600): Created new dev tools registration factory
+09:08:33 (0x1124b6600): Created new lifespan handler
+09:08:33 (0x1124b6600): Created proxy
+09:08:33 (0x1124b6600): Process os_name: 'undefined'
+09:08:33 (0x1124b6600): gpu_mode: '0'
+09:08:33 (0x1124b6600): Launching Main process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --gpu-preferences=UAAAAAAAAAAgAiMKAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJgEAAAAAAAAmAQAAAAAAACIAQAAMAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAADAAQAAAAAAAMgBAAAAAAAA0AEAAAAAAADYAQAAAAAAAOABAAAAAAAA6AEAAAAAAADwAQAAAAAAAPgBAAAAAAAAAAIAAAAAAAAIAgAAAAAAABACAAAAAAAAGAIAAAAAAAAgAgAAAAAAACgCAAAAAAAAMAIAAAAAAAA4AgAAAAAAAEACAAAAAAAASAIAAAAAAABQAgAAAAAAAFgCAAAAAAAAYAIAAAAAAABoAgAAAAAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAJAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAAOAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAIAAAAAAAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAABwAAABAAAAAAAAAACgAAAAgAAAAQAAAAAAAAAAoAAAAJAAAAEAAAAAAAAAAKAAAACwAAABAAAAAAAAAACgAAAAwAAAAQAAAAAAAAAAoAAAAOAAAAEAAAAAAAAAAKAAAADwAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=disabled --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,10154615965383061026,14843757233995074271,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x103abd600): Entered child process
+09:08:33 (0x103abd600): Created new lifespan events
+09:08:33 (0x103abd600): Created new browser process handler
+09:08:33 (0x103abd600): Created new load handler
+09:08:33 (0x103abd600): Created new render handler
+09:08:33 (0x103abd600): Created new render process handler
+09:08:33 (0x103abd600): Created new print handler
+09:08:33 (0x103abd600): Created new dev tools handler
+09:08:33 (0x103abd600): Created new dev tools registration factory
+09:08:33 (0x103abd600): Created new lifespan handler
+09:08:33 (0x103abd600): Created proxy
+09:08:33 (0x103abd600): Process os_name: 'undefined'
+09:08:33 (0x103abd600): gpu_mode: '0'
+09:08:33 (0x103abd600): Launching Main process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --log-file=cef.log --shared-files --field-trial-handle=1718379636,r,10154615965383061026,14843757233995074271,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x11ce4e600): Entered child process
+09:08:33 (0x11ce4e600): Created new lifespan events
+09:08:33 (0x11ce4e600): Created new browser process handler
+09:08:33 (0x11ce4e600): Created new load handler
+09:08:33 (0x11ce4e600): Created new render handler
+09:08:33 (0x10cbf2600): Entered child process
+09:08:33 (0x10cbf2600): Created new lifespan events
+09:08:33 (0x11ce4e600): Created new render process handler
+09:08:33 (0x10cbf2600): Created new browser process handler
+09:08:33 (0x11ce4e600): Created new print handler
+09:08:33 (0x10cbf2600): Created new load handler
+09:08:33 (0x11ce4e600): Created new dev tools handler
+09:08:33 (0x11ce4e600): Created new dev tools registration factory
+09:08:33 (0x10cbf2600): Created new render handler
+09:08:33 (0x11ce4e600): Created new lifespan handler
+09:08:33 (0x10cbf2600): Created new render process handler
+09:08:33 (0x11ce4e600): Created proxy
+09:08:33 (0x10cbf2600): Created new print handler
+09:08:33 (0x10cbf2600): Created new dev tools handler
+09:08:33 (0x10cbf2600): Created new dev tools registration factory
+09:08:33 (0x10cbf2600): Created new lifespan handler
+09:08:33 (0x10cbf2600): Created proxy
+09:08:33 (0x11ce4e600): Process os_name: 'undefined'
+09:08:33 (0x11ce4e600): gpu_mode: '0'
+09:08:33 (0x11ce4e600): Launching Main process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --launch-time-ticks=3177759822 --shared-files --field-trial-handle=1718379636,r,10154615965383061026,14843757233995074271,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x10cbf2600): Process os_name: 'undefined'
+09:08:33 (0x10cbf2600): gpu_mode: '0'
+09:08:33 (0x10cbf2600): Launching Main process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain --no-sandbox --enable-gpu-client-logging --enable-gpu-service-logging --log-file=cef.log --disable-gpu-compositing --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --launch-time-ticks=3177762754 --shared-files --field-trial-handle=1718379636,r,10154615965383061026,14843757233995074271,131072 --disable-features=PaintHolding --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x10cbf2600): WebKit initialized
+09:08:33 (0x11ce4e600): WebKit initialized
+09:08:33 (0x10cbf2600): Browser created using id 1
+09:08:33 (0x10cbf2600): Sending process message from render process to browser process for browser 1
+09:08:33 (0x10cbf2600): Successfully sent message to browser process for browser 1
+09:08:33 (0x10cbf2600): Context created for browser 1
+09:08:33 (0x10cbf2600): Message received from process 0
+09:08:33 (0x10cbf2600): Visiting DOM of 'http://ironsoftwarescheme.com/'
+09:08:33 (0x10cbf2600): DOM reported document title of 
+09:08:33 (0x10cbf2600): Finished HTML visit, invoking callback
+09:08:33 (0x10cbf2600): DOM-visit finished for browser 1
+09:08:33 (0x10cbf2600): DOM-visit generated base-64 string 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA='
+09:08:33 (0x10cbf2600): Sending process message from render process to browser process for browser 1
+09:08:33 (0x10cbf2600): Successfully sent message to browser process for browser 1

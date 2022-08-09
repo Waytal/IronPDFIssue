@@ -1,48 +1,42 @@
-15:21:49 (0x700006aa5000): ~ Chrome renderer v2022.6.0.6072~
-15:21:49 (0x700006aa5000): Debugging enabled for Chrome renderer using log path 'IronSoftware.ChromeRenderer.log'
-15:21:49 (0x700006aa5000): Creating Cef proxy event handler
-15:21:49 (0x700006aa5000): Creating Cef proxy event handler
-15:21:49 (0x700006aa5000): Created new lifespan events
-15:21:49 (0x700006aa5000): Detected operating system MacOS
-15:21:49 (0x700006aa5000): Creating Cef proxy
-15:21:49 (0x700006aa5000): Created new browser process handler
-15:21:49 (0x700006aa5000): Created new load handler
-15:21:49 (0x700006aa5000): Created new render handler
-15:21:49 (0x700006aa5000): Created new render process handler
-15:21:49 (0x700006aa5000): Created new print handler
-15:21:49 (0x700006aa5000): Created new dev tools handler
-15:21:49 (0x700006aa5000): Created new dev tools registration factory
-15:21:49 (0x700006aa5000): Created new lifespan handler
-15:21:49 (0x700006aa5000): Creating Cef proxy controller
-15:21:49 (0x700006aa5000): Creating Cef interface
-15:21:49 (0x700006aa5000): Assigning Cef proxy controller events...
-15:21:49 (0x700006aa5000): Assigning Cef proxy controller stream provider...
-15:21:49 (0x700006aa5000): Successful first-time initialization of Chrome renderer
-15:21:49 (0x700006aa5000): Initializing Cef proxy controller
-15:21:49 (0x700006aa5000): Using subprocess path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess'
-15:21:49 (0x700006aa5000): Using framework path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework'
-15:21:49 (0x700006aa5000): Using resources path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources'
-15:21:49 (0x700006aa5000): Process os_name: 'macos'
-15:21:49 (0x700006aa5000): gpu_mode: '0'
-15:21:49 (0x700006aa5000): Launching Main process ' --browser-subprocess-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --no-sandbox --lang=en-US --log-file=cef.log --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x700006aa5000): Process os_name: 'macos'
-15:21:49 (0x700006aa5000): gpu_mode: '0'
-15:21:49 (0x700006aa5000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x700006aa5000): Cef context initialized
-15:21:49 (0x700006aa5000): Registering custom scheme for rendering raw html
-15:21:49 (0x700006aa5000): Successfully registered custom scheme
-15:21:49 (0x700006aa5000): Cef engine initialization complete
-15:21:49 (0x700006aa5000): Cef initialization succeeded
-15:21:49 (0x700006aa5000): Waiting for initialization mutex...
-15:21:49 (0x700006aa5000): Successfully waited for initialization mutex
-15:21:49 (0x700006aa5000): Interop 'InitializeSync()' result: 1
-15:21:49 (0x700006aa5000): Generating pdf from html
-15:21:49 (0x700006aa5000): BROWSER SETTINGS:
+09:08:32 (0x700008745000): ~ Chrome renderer v2022.8.0.7859~
+09:08:32 (0x700008745000): Debugging enabled for Chrome renderer using log path 'IronSoftware.ChromeRenderer.log'
+09:08:32 (0x700008745000): IsSingleProcess: 0
+09:08:32 (0x700008745000): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
+09:08:32 (0x700008745000): Creating Cef proxy controller
+09:08:32 (0x700008745000): Creating Cef interface
+09:08:32 (0x700008745000): Created new lifespan events
+09:08:32 (0x700008745000): Created new browser process handler
+09:08:32 (0x700008745000): Created new load handler
+09:08:32 (0x700008745000): Created new render handler
+09:08:32 (0x700008745000): Created new render process handler
+09:08:32 (0x700008745000): Created new print handler
+09:08:32 (0x700008745000): Created new dev tools handler
+09:08:32 (0x700008745000): Created new dev tools registration factory
+09:08:32 (0x700008745000): Created new lifespan handler
+09:08:32 (0x700008745000): Assigning Cef proxy controller events...
+09:08:32 (0x700008745000): Assigning Cef proxy controller stream provider...
+09:08:32 (0x700008745000): Initializing Cef proxy controller
+09:08:32 (0x700008745000): Using subprocess path '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess'
+09:08:32 (0x700008745000): Using framework path '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework'
+09:08:32 (0x700008745000): Using resources path '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources'
+09:08:32 (0x700008745000): Process os_name: 'macos'
+09:08:32 (0x700008745000): gpu_mode: '0'
+09:08:32 (0x700008745000): Launching Main process ' --browser-subprocess-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --no-sandbox --lang=en-US --log-file=cef.log --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x700008745000): Process os_name: 'macos'
+09:08:33 (0x700008745000): gpu_mode: '0'
+09:08:33 (0x700008745000): Launching child process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x700008745000): Cef context initialized
+09:08:33 (0x700008745000): Registering custom scheme for rendering raw html
+09:08:33 (0x700008745000): Successfully registered custom scheme
+09:08:33 (0x700008745000): Cef engine initialization complete
+09:08:33 (0x700008745000): Cef initialization succeeded
+09:08:33 (0x700008745000): Generating pdf from html
+09:08:33 (0x700008745000): BROWSER SETTINGS:
 View: 1080x1280
 Enable Javascript: 1
 Username: 
 
-15:21:49 (0x700006aa5000): RENDER SETTINGS:
+09:08:33 (0x700008745000): RENDER SETTINGS:
 Apply Margin to H/F: 0
 Backgrounds: 1, Emulate Screen: 0, Forms: 0, Landscape : 0
 Scale: 100
@@ -61,65 +55,80 @@ Save Path:
 Render Delay: 100
 Max Header Height: 200, Max Footer Height : 200
 
-15:21:49 (0x700006aa5000): Created new job group 0 for new document
-15:21:49 (0x700006aa5000): Queuing job 0
-15:21:49 (0x700006aa5000): Creating new browser
-15:21:49 (0x700006aa5000): Process os_name: 'macos'
-15:21:49 (0x700006aa5000): gpu_mode: '0'
-15:21:49 (0x700006aa5000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x700006aa5000): Created browser id 1, 1 exist
-15:21:49 (0x700006aa5000): Processing job for content '<html><body><h1>trestzefzefze</h1>erogeurgjergijeroijgi</body></html>'
-15:21:49 (0x700006aa5000): Process os_name: 'macos'
-15:21:49 (0x700006aa5000): gpu_mode: '0'
-15:21:49 (0x700006aa5000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x700006aa5000): Process os_name: 'macos'
-15:21:49 (0x700006aa5000): gpu_mode: '0'
-15:21:49 (0x700006aa5000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:21:49 (0x700009792000): Received resource request from null for http://ironsoftwarescheme.com/ on browser 1 (nav: 1, dl: 0)
-15:21:49 (0x700009792000): Resolved resource request using default handler
-15:21:49 (0x700009792000): Creating resource handler for custom scheme http using url http://ironsoftwarescheme.com/ on browser 1
-15:21:49 (0x700006aa5000): Started loading frame 'http://ironsoftwarescheme.com/' on browser 1
-15:21:49 (0x700006aa5000): Browser process received message: 'OnBrowserCreated'
-15:21:49 (0x700006aa5000): Received message from render process with values '' (0)
-15:21:49 (0x700006aa5000): Loaded frame 'http://ironsoftwarescheme.com/' on browser 1
-15:21:49 (0x700006aa5000): Found job 0 in group 0 (of 1 groups)
-15:21:49 (0x700006aa5000): Executing dev tools method 'Emulation.setEmulatedMedia' for browser 1
-15:21:49 (0x700006aa5000): Received dev tools message on browser 1: '{"id":1,"result":{}}' (size: 20)
-15:21:49 (0x700006aa5000): Finished dev tools method on browser 1 (message ID: 1)
-15:21:49 (0x700006aa5000): Sending DOM-visit process message for browser 1 (job ID: 0)
-15:21:49 (0x700006aa5000): Browser process received message: 'OnDomVisited'
-15:21:49 (0x700006aa5000): Received message from render process with values 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA=' (156)
-15:21:49 (0x700006aa5000): Printing from browser to '/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T/pdfKL8N9E'
-15:21:49 (0x700006aa5000): Received browser print callback for path '/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T/pdfKL8N9E' (1)
-15:21:49 (0x700006aa5000): Print finished for browser 1(success: 1)
-15:21:49 (0x700006aa5000): Resolving job for browser 1 with 13734 bytes
-15:21:49 (0x700006aa5000): PdfDocumentFactory created document 0x600002c6eee0 from 13734 bytes
-15:21:49 (0x700006aa5000): Resolving job for browser 1 with 1 page document
-15:21:49 (0x700006aa5000): No document title found
-15:21:49 (0x700006aa5000): Retrieve Html title: 
-15:21:49 (0x700006aa5000): Skipping form field generation
-15:21:49 (0x700006aa5000): Generating bytes for document 0x600002c6eee0
-15:21:49 (0x700006aa5000): Successfully generated 13713 bytes for document 0x600002c6eee0
-15:21:49 (0x700006aa5000): PdfDocumentFactory closed document 0x600002c6eee0
-15:21:49 (0x700006aa5000): Closing browser 1
-15:21:49 (0x700006aa5000): Received dev tools message on browser 1: '{"method":"Inspector.detached","params":{"reason":"Render process gone."}}' (size: 74)
-15:21:49 (0x700006aa5000): Destroying browser id 1, 0 remain
-15:21:49 (0x700006aa5000): Finished job 0
-15:21:49 (0x700006aa5000): Found job 0 in group 0 (of 1 groups)
-15:21:49 (0x700006aa5000): Job group 0 finished
-15:21:49 (0x700006aa5000): CefMessagePumpStd::Quit()
-15:21:49 (0x700006aa5000): CefMessagePumpStd::DoQuit()
-15:21:49 (0x700006aa5000): PdfDocumentFactory created document 0x600002c6e670 from 13713 bytes
-15:21:49 (0x700006aa5000): Storing new document 0
-15:21:51 (0x700006aa5000): Generating bytes for document 0x600002c6e670
-15:21:51 (0x700006aa5000): Successfully generated 67322 bytes for document 0x600002c6e670
-15:22:06 (0x700006cf4000): Generating pdf from html
-15:22:06 (0x700006cf4000): BROWSER SETTINGS:
+09:08:33 (0x700008745000): Created new job group 0 for new document
+09:08:33 (0x700008745000): Created job group 0
+09:08:33 (0x700008745000): Queuing job 0
+09:08:33 (0x700008745000): Checking for browser availability (0/30)
+09:08:33 (0x700008745000): Creating new browser after waiting 0 seconds
+09:08:33 (0x700008745000): Process os_name: 'macos'
+09:08:33 (0x700008745000): gpu_mode: '0'
+09:08:33 (0x700008745000): Launching child process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x700008745000): Created browser id 1, 1 exist
+09:08:33 (0x700008745000): Browser 1 created and ready for assignment
+09:08:33 (0x700008745000): Assigning job 0 to browser 1
+09:08:33 (0x700008745000): Processing job for html content on browser 1
+09:08:33 (0x700008745000): Process os_name: 'macos'
+09:08:33 (0x700008745000): gpu_mode: '0'
+09:08:33 (0x700008745000): Launching child process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x700008745000): Process os_name: 'macos'
+09:08:33 (0x700008745000): gpu_mode: '0'
+09:08:33 (0x700008745000): Launching child process '/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/Users/waytal/Projets/IronPDFIssue/temp --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
+09:08:33 (0x700008745000): Browser 1 loading state changed to 1
+09:08:33 (0x70000b266000): Received resource request from null for http://ironsoftwarescheme.com/ on browser 1 (nav: 1, dl: 0)
+09:08:33 (0x70000b266000): Resolved resource request using default handler
+09:08:33 (0x70000b266000): Creating resource handler for custom scheme http using url http://ironsoftwarescheme.com/ on browser 1
+09:08:33 (0x700008745000): Browser 1 frame 17179869185 started loading http://ironsoftwarescheme.com/
+09:08:33 (0x700008745000): Browser process received message: 'OnBrowserCreated'
+09:08:33 (0x700008745000): Received message from render process with values '' (0)
+09:08:33 (0x700008745000): Browser 1 frame 17179869185 ended loading http://ironsoftwarescheme.com/
+09:08:33 (0x700008745000): Browser 1 loading state changed to 0
+09:08:33 (0x700008745000): Found job 0 in group 0 (of 1 groups)
+09:08:33 (0x700008745000): Executing dev tools method 'Emulation.setEmulatedMedia' for browser 1
+09:08:33 (0x700008745000): Executing dev tools method 'Page.getLayoutMetrics' for browser 1
+09:08:33 (0x700008745000): Received dev tools message on browser 1: '{"id":1,"result":{}}' (size: 20)
+09:08:33 (0x700008745000): Finished dev tools method on browser 1 (message ID: 1)
+09:08:33 (0x700008745000): Received dev tools message on browser 1: '{"id":2,"result":{"layoutViewport":{"pageX":0,"pageY":0,"clientWidth":1080,"clientHeight":1280},"visualViewport":{"offsetX":0,"offsetY":0,"pageX":0,"pageY":0,"clientWidth":1080,"clientHeight":1280,"scale":1,"zoom":1},"contentSize":{"x":0,"y":0,"width":1080,"height":1280},"cssLayoutViewport":{"pageX":0,"pageY":0,"clientWidth":1080,"clientHeight":1280},"cssVisualViewport":{"offsetX":0,"offsetY":0,"pageX":0,"pageY":0,"clientWidth":1080,"clientHeight":1280,"scale":1,"zoom":1},"cssContentSize":{"x":0,"y":0,"width":1080,"height":1280}}}' (size: 536)
+09:08:33 (0x700008745000): Finished dev tools method on browser 1 (message ID: 2)
+09:08:33 (0x700008745000): Sending DOM-visit process message for browser 1 (job ID: 0)
+09:08:33 (0x700008745000): Browser process received message: 'OnDomVisited'
+09:08:33 (0x700008745000): Received message from render process with values 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA=' (156)
+09:08:33 (0x700008745000): Processed html for browser 1
+09:08:33 (0x7000089d4000): Apply render delay for : 100 ms
+09:08:33 (0x7000089d4000): Finished waiting for render delay
+09:08:33 (0x7000089d4000): Scaling content to paper using a factor of 100
+09:08:33 (0x7000089d4000): Printing from browser to '/Users/waytal/Projets/IronPDFIssue/temp/pdfh0qiET'
+09:08:33 (0x700008745000): Received browser print callback for path '/Users/waytal/Projets/IronPDFIssue/temp/pdfh0qiET' (1)
+09:08:33 (0x700008745000): Print finished for browser 1(success: 1)
+09:08:33 (0x700008745000): Resolving job for browser 1 with 12729 bytes
+09:08:33 (0x700008745000): PdfDocumentFactory created document 0x7f846c7fd350 from 12729 bytes
+09:08:33 (0x700008745000): Resolving job for browser 1 with 1 page document
+09:08:33 (0x700008745000): No document title found
+09:08:33 (0x700008745000): Retrieve Html title: 
+09:08:33 (0x700008745000): Skipping form field generation
+09:08:33 (0x700008745000): Generating bytes for document 0x7f846c7fd350
+09:08:33 (0x700008745000): Successfully generated 12719 bytes for document 0x7f846c7fd350
+09:08:33 (0x700008745000): PdfDocumentFactory closed document 0x7f846c7fd350
+09:08:33 (0x70000ea7b000): Closing browser 1
+09:08:33 (0x700008745000): Received dev tools message on browser 1: '{"method":"Inspector.detached","params":{"reason":"Render process gone."}}' (size: 74)
+09:08:33 (0x700008745000): Destroying browser id 1, 0 remain
+09:08:33 (0x700008745000): Browser 1 closed for job 0
+09:08:33 (0x700008745000): Found job 0 in group 0 (of 1 groups)
+09:08:33 (0x700008745000): Job group 0 finished
+09:08:33 (0x700008745000): CefMessagePumpStd::Quit()
+09:08:33 (0x700008745000): CefMessagePumpStd::DoQuit()
+09:08:33 (0x700008745000): PdfDocumentFactory created document 0x7f846d3efca0 from 12719 bytes
+09:08:33 (0x700008745000): Storing new document 0
+09:08:34 (0x700008745000): Generating bytes for document 0x7f846d3efca0
+09:08:34 (0x700008745000): Successfully generated 66310 bytes for document 0x7f846d3efca0
+09:08:34 (0x700008745000): PdfDocumentFactory closed document 0x7f846d3efca0
+09:08:34 (0x700008745000): Erasing document 0
+09:08:35 (0x70000884b000): Generating pdf from html
+09:08:35 (0x70000884b000): BROWSER SETTINGS:
 View: 1080x1280
 Enable Javascript: 1
 Username: 
 
-15:22:06 (0x700006cf4000): RENDER SETTINGS:
+09:08:35 (0x70000884b000): RENDER SETTINGS:
 Apply Margin to H/F: 0
 Backgrounds: 1, Emulate Screen: 0, Forms: 0, Landscape : 0
 Scale: 100
@@ -138,155 +147,11 @@ Save Path:
 Render Delay: 100
 Max Header Height: 200, Max Footer Height : 200
 
-15:22:06 (0x700006cf4000): Created new job group 1 for new document
-15:22:06 (0x700006cf4000): Queuing job 1
-15:22:06 (0x700006cf4000): Creating new browser
-15:23:11 (0x700006cf4000): Error while rendering pdf from html: Timeout after 65s while rendering pdf from html
-15:23:11 (0x700006cf4000): Error (source -1): 'Error while rendering pdf from html: Timeout after 65s while rendering pdf from html'
-15:24:22 (0x70000d1c3000): ~ Chrome renderer v2022.6.0.6072~
-15:24:22 (0x70000d1c3000): Debugging enabled for Chrome renderer using log path 'IronSoftware.ChromeRenderer.log'
-15:24:22 (0x70000d1c3000): Creating Cef proxy event handler
-15:24:22 (0x70000d1c3000): Creating Cef proxy event handler
-15:24:22 (0x70000d1c3000): Created new lifespan events
-15:24:22 (0x70000d1c3000): Detected operating system MacOS
-15:24:22 (0x70000d1c3000): Creating Cef proxy
-15:24:22 (0x70000d1c3000): Created new browser process handler
-15:24:22 (0x70000d1c3000): Created new load handler
-15:24:22 (0x70000d1c3000): Created new render handler
-15:24:22 (0x70000d1c3000): Created new render process handler
-15:24:22 (0x70000d1c3000): Created new print handler
-15:24:22 (0x70000d1c3000): Created new dev tools handler
-15:24:22 (0x70000d1c3000): Created new dev tools registration factory
-15:24:22 (0x70000d1c3000): Created new lifespan handler
-15:24:22 (0x70000d1c3000): Creating Cef proxy controller
-15:24:22 (0x70000d1c3000): Creating Cef interface
-15:24:22 (0x70000d1c3000): Assigning Cef proxy controller events...
-15:24:22 (0x70000d1c3000): Assigning Cef proxy controller stream provider...
-15:24:22 (0x70000d1c3000): Successful first-time initialization of Chrome renderer
-15:24:22 (0x70000d1c3000): Initializing Cef proxy controller
-15:24:22 (0x70000d1c3000): Using subprocess path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess'
-15:24:22 (0x70000d1c3000): Using framework path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework'
-15:24:22 (0x70000d1c3000): Using resources path '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources'
-15:24:22 (0x70000d1c3000): Process os_name: 'macos'
-15:24:22 (0x70000d1c3000): gpu_mode: '0'
-15:24:22 (0x70000d1c3000): Launching Main process ' --browser-subprocess-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --no-sandbox --lang=en-US --log-file=cef.log --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x70000d1c3000): Process os_name: 'macos'
-15:24:23 (0x70000d1c3000): gpu_mode: '0'
-15:24:23 (0x70000d1c3000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=gpu-process --no-sandbox --headless --enable-gpu-service-logging --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x70000d1c3000): Cef context initialized
-15:24:23 (0x70000d1c3000): Registering custom scheme for rendering raw html
-15:24:23 (0x70000d1c3000): Successfully registered custom scheme
-15:24:23 (0x70000d1c3000): Cef engine initialization complete
-15:24:23 (0x70000d1c3000): Cef initialization succeeded
-15:24:23 (0x70000d1c3000): Waiting for initialization mutex...
-15:24:23 (0x70000d1c3000): Successfully waited for initialization mutex
-15:24:23 (0x70000d1c3000): Interop 'InitializeSync()' result: 1
-15:24:23 (0x70000d1c3000): Generating pdf from html
-15:24:23 (0x70000d1c3000): BROWSER SETTINGS:
-View: 1080x1280
-Enable Javascript: 1
-Username: 
-
-15:24:23 (0x70000d1c3000): RENDER SETTINGS:
-Apply Margin to H/F: 0
-Backgrounds: 1, Emulate Screen: 0, Forms: 0, Landscape : 0
-Scale: 100
-Page Size Type: A4
-Custom Page Size: 210x297
-Actual Page Size: 210x297
-Page Margin Type: 3
-Margin Top: 25, Right: 25, Bottom: 25, Left: 25
-Header Html: 
-Footer Html: 
-Javascript: 
-Autosize Screen: 0, PPI: 96
-Title: 
-First Page Number: 1
-Save Path: 
-Render Delay: 100
-Max Header Height: 200, Max Footer Height : 200
-
-15:24:23 (0x70000d1c3000): Created new job group 0 for new document
-15:24:23 (0x70000d1c3000): Queuing job 0
-15:24:23 (0x70000d1c3000): Creating new browser
-15:24:23 (0x70000d1c3000): Process os_name: 'macos'
-15:24:23 (0x70000d1c3000): gpu_mode: '0'
-15:24:23 (0x70000d1c3000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --ignore-urlfetcher-cert-requests --no-sandbox --use-mock-keychain --ignore-certificate-errors --mute-audio --ignore-certificate-errors --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --lang=en-US --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x70000d1c3000): Created browser id 1, 1 exist
-15:24:23 (0x70000d1c3000): Processing job for content '<html><body><h1>trestzefzefze</h1>erogeurgjergijeroijgi</body></html>'
-15:24:23 (0x70000d1c3000): Process os_name: 'macos'
-15:24:23 (0x70000d1c3000): gpu_mode: '0'
-15:24:23 (0x70000d1c3000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x70000d1c3000): Process os_name: 'macos'
-15:24:23 (0x70000d1c3000): gpu_mode: '0'
-15:24:23 (0x70000d1c3000): Launching child process '/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/IronCefSubprocess --type=renderer --framework-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework --log-severity=verbose --resources-dir-path=/Users/waytal/Projects/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Resources --user-data-dir=/private/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T --disable-web-security --disable-component-update --disable-background-downloads --disable-delta-updates --disable-pings --headless --hide-scrollbars --mute-audio --disable-gpu --disable-gpu-compositing --disable-software-rasterizer --disable-gpu-shader-disk-cache --disable-dev-shm-usage --enable-media-stream --no-sandbox --enable-debugging --enable-gpu-client-logging --enable-gpu-debugging --enable-gpu-service-logging --ignore-certificate-errors --ignore-ssl-errors --ignore-urlfetcher-cert-requests --use-mock-keychain'
-15:24:23 (0x7000100bc000): Received resource request from null for http://ironsoftwarescheme.com/ on browser 1 (nav: 1, dl: 0)
-15:24:23 (0x7000100bc000): Resolved resource request using default handler
-15:24:23 (0x7000100bc000): Creating resource handler for custom scheme http using url http://ironsoftwarescheme.com/ on browser 1
-15:24:23 (0x70000d1c3000): Started loading frame 'http://ironsoftwarescheme.com/' on browser 1
-15:24:23 (0x70000d1c3000): Browser process received message: 'OnBrowserCreated'
-15:24:23 (0x70000d1c3000): Received message from render process with values '' (0)
-15:24:23 (0x70000d1c3000): Loaded frame 'http://ironsoftwarescheme.com/' on browser 1
-15:24:23 (0x70000d1c3000): Found job 0 in group 0 (of 1 groups)
-15:24:23 (0x70000d1c3000): Executing dev tools method 'Emulation.setEmulatedMedia' for browser 1
-15:24:23 (0x70000d1c3000): Received dev tools message on browser 1: '{"id":1,"result":{}}' (size: 20)
-15:24:23 (0x70000d1c3000): Finished dev tools method on browser 1 (message ID: 1)
-15:24:23 (0x70000d1c3000): Sending DOM-visit process message for browser 1 (job ID: 0)
-15:24:23 (0x70000d1c3000): Browser process received message: 'OnDomVisited'
-15:24:23 (0x70000d1c3000): Received message from render process with values 'AQAAAGgAAAAAAAAAAgAAAEQAAAAQAAAAAAAAAAAAAAABAAAAOAAAAAEAAAANAAAAZAAAAG8AAABjAAAAdQAAAG0AAABlAAAAbgAAAHQAAAB0AAAAaQAAAHQAAABsAAAAZQAAAAEAAAAEAAAAAQAAAAAAAAA=' (156)
-15:24:23 (0x70000d1c3000): Printing from browser to '/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T/pdfp11fkn'
-15:24:23 (0x70000d1c3000): Received browser print callback for path '/var/folders/6b/tgzypm410058756rmpxmd_180000gn/T/pdfp11fkn' (1)
-15:24:23 (0x70000d1c3000): Print finished for browser 1(success: 1)
-15:24:23 (0x70000d1c3000): Resolving job for browser 1 with 13734 bytes
-15:24:23 (0x70000d1c3000): PdfDocumentFactory created document 0x600002bfd770 from 13734 bytes
-15:24:23 (0x70000d1c3000): Resolving job for browser 1 with 1 page document
-15:24:23 (0x70000d1c3000): No document title found
-15:24:23 (0x70000d1c3000): Retrieve Html title: 
-15:24:23 (0x70000d1c3000): Skipping form field generation
-15:24:23 (0x70000d1c3000): Generating bytes for document 0x600002bfd770
-15:24:23 (0x70000d1c3000): Successfully generated 13713 bytes for document 0x600002bfd770
-15:24:23 (0x70000d1c3000): PdfDocumentFactory closed document 0x600002bfd770
-15:24:23 (0x70000d1c3000): Closing browser 1
-15:24:23 (0x70000d1c3000): Received dev tools message on browser 1: '{"method":"Inspector.detached","params":{"reason":"Render process gone."}}' (size: 74)
-15:24:23 (0x70000d1c3000): Destroying browser id 1, 0 remain
-15:24:23 (0x70000d1c3000): Finished job 0
-15:24:23 (0x70000d1c3000): Found job 0 in group 0 (of 1 groups)
-15:24:23 (0x70000d1c3000): Job group 0 finished
-15:24:23 (0x70000d1c3000): CefMessagePumpStd::Quit()
-15:24:23 (0x70000d1c3000): CefMessagePumpStd::DoQuit()
-15:24:23 (0x70000d1c3000): PdfDocumentFactory created document 0x600002bec0f0 from 13713 bytes
-15:24:23 (0x70000d1c3000): Storing new document 0
-15:24:24 (0x70000d1c3000): Generating bytes for document 0x600002bec0f0
-15:24:24 (0x70000d1c3000): Successfully generated 67322 bytes for document 0x600002bec0f0
-15:24:24 (0x70000d1c3000): PdfDocumentFactory closed document 0x600002bec0f0
-15:24:24 (0x70000d1c3000): Erasing document 0
-15:24:27 (0x70000d2c9000): Generating pdf from html
-15:24:27 (0x70000d2c9000): BROWSER SETTINGS:
-View: 1080x1280
-Enable Javascript: 1
-Username: 
-
-15:24:27 (0x70000d2c9000): RENDER SETTINGS:
-Apply Margin to H/F: 0
-Backgrounds: 1, Emulate Screen: 0, Forms: 0, Landscape : 0
-Scale: 100
-Page Size Type: A4
-Custom Page Size: 210x297
-Actual Page Size: 210x297
-Page Margin Type: 3
-Margin Top: 25, Right: 25, Bottom: 25, Left: 25
-Header Html: 
-Footer Html: 
-Javascript: 
-Autosize Screen: 0, PPI: 96
-Title: 
-First Page Number: 1
-Save Path: 
-Render Delay: 100
-Max Header Height: 200, Max Footer Height : 200
-
-15:24:27 (0x70000d2c9000): Created new job group 1 for new document
-15:24:27 (0x70000d2c9000): Queuing job 1
-15:24:27 (0x70000d2c9000): Creating new browser
-15:25:32 (0x70000d2c9000): Error while rendering pdf from html: Timeout after 65s while rendering pdf from html
-15:25:32 (0x70000d2c9000): Error (source -1): 'Error while rendering pdf from html: Timeout after 65s while rendering pdf from html'
+09:08:35 (0x70000884b000): Created new job group 1 for new document
+09:08:35 (0x70000884b000): Created job group 1
+09:08:35 (0x70000884b000): Queuing job 1
+09:08:35 (0x70000884b000): Checking for browser availability (0/30)
+09:08:35 (0x70000884b000): Creating new browser after waiting 0 seconds
+09:09:41 (0x70000884b000): !!! Error while rendering pdf from html for job group 1: 'Timeout after 65s while rendering pdf from html for job group 1'
+09:09:41 (0x70000884b000): Error while rendering pdf from html for job group 1: 'Timeout after 65s while rendering pdf from html for job group 1'
+09:09:41 (0x70000884b000): Error (source -1): 'Error while rendering pdf from html for job group 1: 'Timeout after 65s while rendering pdf from html for job group 1''

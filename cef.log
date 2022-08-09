@@ -1,52 +1,26 @@
-[0627/152149.316779:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7fc819f1e330: set chrome proxy config service to 0x7fc819f1eeb0
-[0627/152149.450407:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
-[0627/152149.450514:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7fc81b02b770])
-[0627/152149.450575:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
-[0627/152149.450612:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7fc81b02b770]))
-[0627/152149.506808:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
-[0627/152149.561228:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7fc81b31c510: set chrome proxy config service to 0x7fc81b31d090
-[0627/152149.638879:INFO:cpu_info.cc(53)] Available number of cores: 6
-[0627/152149.641105:INFO:cpu_info.cc(53)] Available number of cores: 6
-[0627/152149.674486:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
-[0627/152149.680795:VERBOSE1:script_context.cc(203)] Created context:
+[0809/090832.959299:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f846c7b49f0: set chrome proxy config service to 0x7f846d678350
+[0809/090833.055672:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
+[0809/090833.056708:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7f846d08d0d0])
+[0809/090833.056804:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
+[0809/090833.057167:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7f846d08d0d0]))
+[0809/090833.098128:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
+[0809/090833.185063:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f846d3e9740: set chrome proxy config service to 0x7f846d3ea2c0
+[0809/090833.288385:INFO:cpu_info.cc(53)] Available number of cores: 6
+[0809/090833.288384:INFO:cpu_info.cc(53)] Available number of cores: 6
+[0809/090833.370422:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0809/090833.414737:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0809/090833.430177:VERBOSE1:script_context.cc(203)] Created context:
   extension id:           (none)
-  frame:                  0x300028ce08
+  frame:                  0x100028ce08
   URL:                    
   context_type:           WEB_PAGE
   effective extension id: (none)
   effective context type: WEB_PAGE
-[0627/152149.681542:VERBOSE1:script_context.cc(203)] Created context:
+[0809/090833.431070:VERBOSE1:script_context.cc(203)] Created context:
   extension id:           (none)
   frame:                  0x0
   URL:                    
   context_type:           UNSPECIFIED
   effective extension id: (none)
   effective context type: UNSPECIFIED
-[0627/152149.681686:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
-[0627/152149.793285:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
-[0627/152422.987650:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f8d76f1c820: set chrome proxy config service to 0x7f8d76f1d250
-[0627/152423.100856:VERBOSE1:webrtc_internals.cc(118)] Could not get the download directory.
-[0627/152423.101913:VERBOSE1:media_stream_manager.cc(915)] MSM::InitializeMaybeAsync([this=0x7f8d78d12290])
-[0627/152423.101970:VERBOSE1:media_stream_manager.cc(915)] MDM::MediaDevicesManager()
-[0627/152423.102289:VERBOSE1:media_stream_manager.cc(915)] MSM::MediaStreamManager([this=0x7f8d78d12290]))
-[0627/152423.147415:VERBOSE1:first_party_sets_handler_impl.cc(168)] Empty path. Failed loading serialized First-Party Sets file.
-[0627/152423.206420:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0x7f8d7c904c20: set chrome proxy config service to 0x7f8d78860750
-[0627/152423.280702:INFO:cpu_info.cc(53)] Available number of cores: 6
-[0627/152423.280703:INFO:cpu_info.cc(53)] Available number of cores: 6
-[0627/152423.380912:VERBOSE1:media_stream_manager.cc(915)] RFAOSF::Core() [process_id=4, frame_id=1]
-[0627/152423.392642:VERBOSE1:script_context.cc(203)] Created context:
-  extension id:           (none)
-  frame:                  0x330028ce08
-  URL:                    
-  context_type:           WEB_PAGE
-  effective extension id: (none)
-  effective context type: WEB_PAGE
-[0627/152423.393264:VERBOSE1:script_context.cc(203)] Created context:
-  extension id:           (none)
-  frame:                  0x0
-  URL:                    
-  context_type:           UNSPECIFIED
-  effective extension id: (none)
-  effective context type: UNSPECIFIED
-[0627/152423.393384:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1
-[0627/152423.400852:ERROR:gpu_init.cc(481)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0809/090833.431239:VERBOSE1:dispatcher.cc(444)] Num tracked contexts: 1

@@ -1,0 +1,18 @@
+09:08:32 (0x115d5b600): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
+09:08:32 (0x115d5b600): Entered child process
+09:08:32 (0x115d5b600): Created new lifespan events
+09:08:32 (0x115d5b600): Created new browser process handler
+09:08:32 (0x115d5b600): Created new load handler
+09:08:32 (0x115d5b600): Created new render handler
+09:08:32 (0x115d5b600): Created new render process handler
+09:08:32 (0x115d5b600): Created new print handler
+09:08:32 (0x115d5b600): Created new dev tools handler
+09:08:32 (0x115d5b600): Created new dev tools registration factory
+09:08:32 (0x115d5b600): Created new lifespan handler
+09:08:32 (0x115d5b600): Created proxy
+09:08:32 (0x115d5b600): Executed process
+09:08:32 (0x700008745000): Detected operating system macos
+09:08:33 (0x1124b6600): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
+09:08:33 (0x103abd600): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
+09:08:33 (0x11ce4e600): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
+09:08:33 (0x10cbf2600): Loading Cef library from /Users/waytal/Projets/IronPDFIssue/bin/Debug/net6.0/runtimes/osx-x64/native/Chromium Embedded Framework.framework/Chromium Embedded Framework
