@@ -14,7 +14,7 @@ public class TestController : ControllerBase
     public FileResult CreatePDF()
     {
 
-        IronPdf.License.LicenseKey = "IRONPDF.DEVTEAM.IX9486-A7AE61CF7A-BKPEIB4GR4-WGFX6QMIVAT3-YF3XNAOCFJDN-C67G6D2TIBDS-CWSGCEM3FDQX-CSIXJY-LXIKP4RCDUDOUA-UNIT.TESTING-5KFMOT.RENEW.SUPPORT.23.JAN.2103";
+        IronPdf.License.LicenseKey = "------";
 
         IronPdf.Logging.Logger.EnableDebugging = true;
 
