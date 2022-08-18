@@ -11,7 +11,7 @@ public class TestController : ControllerBase
     {
     }
 
-    public async Task<FileResult> CreatePDFAsync()
+    public FileResult CreatePDF()
     {
         Program.eventStartRender.Set();
         Program.eventDoneRender.WaitOne();

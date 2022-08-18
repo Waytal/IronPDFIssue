@@ -66,16 +66,6 @@ public class Program
 
         app.MapControllers();
 
-        var ironPdfLicenseKey = app.Configuration.GetSection("IronPdf").GetValue<string>("LicenseKey");
-
-        IronPdf.License.LicenseKey = ironPdfLicenseKey;
-
-        IronPdf.Logging.Logger.EnableDebugging = true;
-
-        IronPdf.Installation.TempFolderPath = "./temp";
-
-        IronPdf.Installation.Initialize();
-
         app.Run();
     }
 }
