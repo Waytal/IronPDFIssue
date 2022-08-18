@@ -1,3 +1,5 @@
+using IronPdf;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -22,14 +24,5 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-var ironPdfLicenseKey = app.Configuration.GetSection("IronPdf").GetValue<string>("LicenseKey");
-
-IronPdf.License.LicenseKey = ironPdfLicenseKey;
-
-IronPdf.Logging.Logger.EnableDebugging = true;
-
-IronPdf.Installation.TempFolderPath = "./temp";
-
-IronPdf.Installation.Initialize();
 
 app.Run();
