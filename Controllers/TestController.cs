@@ -11,20 +11,11 @@ public class TestController : ControllerBase
     {
     }
 
-    public async Task<FileResult> CreatePDFAsync()
+    public FileResult CreatePDF()
     {
-        var renderer = new ChromePdfRenderer();
+        Program.eventStartRender.Set();
+        Program.eventDoneRender.WaitOne();
 
-        renderer.RenderingOptions.CssMediaType = IronPdf.Rendering.PdfCssMediaType.Print;
-
-        renderer.RenderingOptions.PrintHtmlBackgrounds = true;
-        renderer.RenderingOptions.CreatePdfFormsFromHtml = false;
-
-        renderer.RenderingOptions.ViewPortWidth = 1080;
-        renderer.RenderingOptions.RenderDelay = 100;
-
-        using var pdfDocument = await renderer.RenderHtmlAsPdfAsync("<html><body><h1>Hello</h1>World</body></html>");
-
-        return File(pdfDocument.Stream, "application/pdf");
+        return File(Program.data, "application/pdf");
     }
 }
