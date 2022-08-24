@@ -1,3 +1,10 @@
+## Update : a workaround has been made by [djrecipe](https://github.com/djrecipe)
+
+His patch allows iron pdf to be used on a MacOs environment. 
+
+It has been merged into the main branch. 
+More info in the [merge request](https://github.com/Waytal/IronPDFIssue/pull/2).
+
 ## About this Repo
 
 I'm working on a backend server that integrates IronPDF. 
